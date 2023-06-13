@@ -1,0 +1,40 @@
+.retangulo{
+    background-color: rgb(21, 126, 207);
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+.container{
+    margin: 100px;
+    padding: 10px;
+    margin-left: 0px;
+    
+}
+
+
+.container li{
+    font-size: 20px;
+    color: rgb(61, 190, 6);
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 2%;
+
+}
+
+footer{
+    size:  50px;
+    color: black;
+    text-align: center;
+    background-color: rgb(168, 168, 168);
+}
+
+a:link{
+    text-decoration: none; 
+}

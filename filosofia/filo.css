@@ -1,0 +1,17 @@
+.vq{
+    background-color: rgb(107, 26, 220);
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+
+}
+
+
+.container{
+    margin: 100px;
+    padding: 10px;
+    margin-left: 0px;
+}
